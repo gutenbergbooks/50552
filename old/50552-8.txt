@@ -1,4 +1,37 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 50552 ***
+Project Gutenberg's Acids, Alkalis and Salts, by George Henry Joseph Adlam
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Acids, Alkalis and Salts
+
+Author: George Henry Joseph Adlam
+
+Release Date: November 26, 2015 [EBook #50552]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ACIDS, ALKALIS AND SALTS ***
+
+
+
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+
+
+
+
 
                 COMMON COMMODITIES AND INDUSTRIES SERIES
 
@@ -50,7 +83,7 @@
     [Illustration: _Copyright by Messrs Flatters & Garnett, Manchester_
     BACTERIA NODULES ON THE ROOT OF LUPIN]
 
-               PITMAN’S COMMON COMMODITIES AND INDUSTRIES
+               PITMAN'S COMMON COMMODITIES AND INDUSTRIES
 
 
 
@@ -61,7 +94,7 @@
                                    BY
                             G. H. J. ADLAM,
                           M.A., B.Sc., F.C.S.
-                 Editor of “The School Science Review”
+                 Editor of "The School Science Review"
 
                                  London
           Sir Isaac Pitman & Sons, Ltd., 1 Amen Corner, E.C.4
@@ -83,25 +116,25 @@ have been expressed on this point. Schoolmen have looked askance at some
 branches of knowledge because they were supposed to be tainted with the
 possibility of usefulness in after life. On the other hand, business men
 and others have complained bitterly of the present state of education
-because very little that is considered “useful” has up to the present
+because very little that is considered "useful" has up to the present
 been taught in schools.
 
 It is possible to err in both directions. A university professor,
 lecturing on higher Mathematics, is reported to have told his audience
 that it was a source of great satisfaction to him that the theorem which
-he was demonstrating could never be applied to anything “useful.” On the
+he was demonstrating could never be applied to anything "useful." On the
 other hand, we have the well-authenticated story of the man who took his
-son to the Royal School of Mines to “learn copper,” and not to waste his
-time over other parts of Chemistry, because “they would be of no use to
-him.”
+son to the Royal School of Mines to "learn copper," and not to waste his
+time over other parts of Chemistry, because "they would be of no use to
+him."
 
 For narrowness of outlook, there is nothing to choose between the pedant
-and the “practical” man. National education would deteriorate if its
+and the "practical" man. National education would deteriorate if its
 control should ever pass into the hands of extremists of either type,
 for nothing worthy of the name of education could ever be given or
 received in such an irrational spirit.
 
-In dealing with the subject of “Acids, Alkalis, and Salts,” I have
+In dealing with the subject of "Acids, Alkalis, and Salts," I have
 endeavoured to give prominence to the commercial and domestic importance
 of the substances dealt with. I thereby hope to gain the interest of the
 reader, since interest stands in the same relation to education that
@@ -118,7 +151,7 @@ Co. for Figures 4, 5, 9, 12, 13, 16; Messrs. Macmillan & Co., for
 Figures 8, 10 and 15. I have also availed myself of the assistance of
 several standard works on Chemistry. My acknowledgments in this
 direction take the practical form of the short bibliography which
-follows—
+follows--
 
 
   Lunge, Dr. G.
@@ -178,7 +211,7 @@ follows—
   1. DIAGRAM                                                            7
   2. PLAN OF SULPHURIC ACID WORKS                                      13
   3. GENERAL VIEW OF SULPHURIC ACID WORKS                              15
-  4. SULPHUR TRIOXIDE—THE CONTACT PROCESS                              19
+  4. SULPHUR TRIOXIDE--THE CONTACT PROCESS                             19
   5. PREPARATION OF NITRIC ACID                                        30
   6. NITROGEN CYCLE (DIAGRAM)                                          38
   7. NITRIC ACID FROM AIR (DIAGRAM)                                    41
@@ -221,15 +254,15 @@ greater than that of any other liquid known at the time of its
 discovery. It was this property which seems to have appealed most
 strongly to the imagination of the early chemists; and, as is very often
 the case, the description of its powers was very much exaggerated. Livy
-and Plutarch, who have given us an account of Hannibal’s invasion of
+and Plutarch, who have given us an account of Hannibal's invasion of
 Italy by way of the Alps, both gravely declare that the Carthaginian
 leader cleared a passage for his elephants through solid rocks by
 pouring vinegar over them!
 
 In the Middle Ages, the study of Chemistry was fostered mainly as a
 possible means whereby long life and untold riches might be obtained.
-The “Philosopher’s Stone,” by the agency of which the base metals were
-to be changed to gold, and the “Elixir of Life,” which was to banish
+The "Philosopher's Stone," by the agency of which the base metals were
+to be changed to gold, and the "Elixir of Life," which was to banish
 disease and death, were eagerly sought for. Though these were vain
 imaginings according to modern ideas, nevertheless they were powerful
 incentives towards experimental work. Many new substances were
@@ -265,7 +298,7 @@ If the insoluble matter is then allowed to settle down and the clear
 liquid evaporated to dryness, a whitish residue is obtained. The soluble
 matter thus extracted from the ashes of plants which grow in or near the
 sea is mainly soda; that from land plants, mainly potash. Formerly no
-distinction was made, and the general term “alkali” was applied to both.
+distinction was made, and the general term "alkali" was applied to both.
 
 In order to bring the properties of alkalis into contrast with those of
 acids, we cannot do better than make a few simple experiments with a
@@ -282,10 +315,10 @@ red by the addition of an acid, the original colour can be restored by
 adding an alkali. The change can be repeated as often as desired by
 adding acid and alkali alternately. From this we get a distinct
 impression of antithesis between the two. In popular language, an alkali
-“kills” an acid; in Chemistry, the same idea is expressed by the term
-“neutralization.”
+"kills" an acid; in Chemistry, the same idea is expressed by the term
+"neutralization."
 
-Salts. Both “neutralization” and “killing the acid” are modes of
+Salts. Both "neutralization" and "killing the acid" are modes of
 expression which describe the phenomenon fairly well. When an acid is
 neutralized, its characteristic taste, its solvent power, and its action
 on litmus, are all changed; in fact, the acid as an acid ceases to
@@ -299,7 +332,7 @@ taken as a condiment with food. Its use in this connection dates from
 time immemorial. It is distinctly unfortunate that another and very much
 wider usage of the term has been introduced into Chemistry. When the
 early chemists recognized that other substances, which they vaguely
-designated as “saline bodies,” were similar to common salt in
+designated as "saline bodies," were similar to common salt in
 composition, they took the name of the individual and applied it to the
 whole class.
 
@@ -320,7 +353,7 @@ liquid used for this purpose is made by adding scraps of zinc to
 muriatic acid (hydrochloric acid). The zinc dissolves with
 effervescence, which is caused by the escape of hydrogen gas. When
 effervescence ceases and no more zinc will dissolve, the liquid is ready
-for use. The acid has been “killed” or neutralized by the metal. A salt
+for use. The acid has been "killed" or neutralized by the metal. A salt
 called zinc chloride has been formed. This salt can be recovered from
 the liquid by evaporation.
 
@@ -348,8 +381,8 @@ they are salts of carbonic acid. At first it may seem a little
 perplexing to the reader to learn that a salt can neutralize an acid to
 form a salt. It must be remembered, however, that acids differ from one
 another in strength, that is, in chemical activity, and that carbonic
-acid is a weak acid. When a salt of carbonic acid—sodium carbonate or
-washing soda, for example—is added to a stronger acid such as sulphuric
+acid is a weak acid. When a salt of carbonic acid--sodium carbonate or
+washing soda, for example--is added to a stronger acid such as sulphuric
 acid, sodium sulphate is formed and carbon dioxide liberated.
 
 As an example of the neutralization of acids by carbonates, we may
@@ -396,8 +429,8 @@ render it unnecessary to encumber them with purely explanatory matter.
 Among the many different kinds of materials known, which in the
 aggregate amount to several hundreds of thousands, there are about
 ninety substances which up to the present time have not been broken up
-into simpler kinds. These primary materials are called “elements,” the
-remainder being known as “compounds.”
+into simpler kinds. These primary materials are called "elements," the
+remainder being known as "compounds."
 
 The following is a list of the commonest of these elements, together
 with the symbols by which they are represented in Chemistry.
@@ -468,8 +501,8 @@ naturally. Under either set of conditions, the substance generally
 separates out in particles which have a definite geometrical form. These
 are spoken of as crystals.
 
-Crystals often contain a definite percentage of water, called “water of
-crystallization.” In washing soda, this combined water forms nearly 63
+Crystals often contain a definite percentage of water, called "water of
+crystallization." In washing soda, this combined water forms nearly 63
 per cent. of the total weight; in blue vitriol, it is approximately 36
 per cent. On being heated to a moderate temperature, the water is
 expelled from the solid; the substance which is left behind is called
@@ -491,12 +524,12 @@ generally available for immediate use. Moreover, very many substances
 now deemed indispensable are not found ready formed in Nature.
 
 The end product of the chemical manufacturer is often one of the primary
-materials of some other industry. Soda ash and Glauber’s salt are
+materials of some other industry. Soda ash and Glauber's salt are
 essential for making glass; soap could not be produced without caustic
 alkali; the textile trade would be seriously handicapped if bleaching
 materials, mordants, and dye-stuffs were not forthcoming. Considered in
-this light, the preparation of chemicals is spoken of as a “key
-industry.”
+this light, the preparation of chemicals is spoken of as a "key
+industry."
 
 Furthermore, very few of these indispensable substances can be made
 without using sulphuric acid. This acid is, on that account, just as
@@ -529,7 +562,7 @@ cent. of iron, and when this is burnt in a good draught, nearly the
 whole of the sulphur burns to sulphur dioxide, leaving a residue of
 oxide of iron which can be used for making cast iron of a low grade.
 
-Iron pyrites is often supplemented by the “spent oxide” from the gas
+Iron pyrites is often supplemented by the "spent oxide" from the gas
 works. Crude coal gas contains sulphur compounds which, if not removed,
 would burn with the gas and form sulphur dioxide. The production of
 these pungent and suffocating fumes would be a source of great
@@ -538,8 +571,8 @@ compounds. To do this, the gas is passed through two purifiers, the
 first containing slaked lime and the second ferric oxide, both in a
 slightly moist condition. After being some time in use, the purifying
 material loses its efficacy; the residue from the lime purifier is sold
-as “gas lime,” but that from the ferric oxide purifier is exposed to the
-air and so “revived.” At length, however, it becomes so charged with
+as "gas lime," but that from the ferric oxide purifier is exposed to the
+air and so "revived." At length, however, it becomes so charged with
 sulphur that it is of no further use for its original work. It is then
 passed on to the sulphuric acid maker.
 
@@ -559,7 +592,7 @@ liquid which we now call sulphuric acid was in his day obtained by
 heating a mixture of green vitriol and pebbles. Until quite recent
 times, sulphuric acid of a special grade was made by precisely the same
 method, except that the pebbles were dispensed with. In passing, we may
-remark that the common name “vitriol,” or “oil of vitriol,” is accounted
+remark that the common name "vitriol," or "oil of vitriol," is accounted
 for by this connection with green vitriol. The second method, quoted by
 Basil Valentine, consisted of the ignition of a mixture of saltpetre and
 sulphur in the presence of water. This is actually the modern lead
@@ -567,7 +600,7 @@ chamber process in embryo.
 
     [Illustration: Fig. 2. PLAN OF SULPHURIC ACID WORKS]
 
-About the middle of the eighteenth century, “Dr.” Ward took out a patent
+About the middle of the eighteenth century, "Dr." Ward took out a patent
 for the manufacture of sulphuric acid, to be carried on at Richmond in
 Surrey. He used large glass bell jars of about 40-50 galls. capacity, in
 which he placed a little water and a flat stone to support a red-hot
@@ -590,7 +623,7 @@ burning iron pyrites in a carefully regulated current of air. The
 mixture of gases which leaves the pyrites burners contains sulphur
 dioxide, excess of oxygen, and a very large quantity of nitrogen. To
 this is added the vapour of nitric acid, generated from sodium nitrate
-and concentrated sulphuric acid contained in the “nitre pots,” which are
+and concentrated sulphuric acid contained in the "nitre pots," which are
 placed at B. The mixture of gases then passes up the Glover tower (C)
 and through the three chambers in succession, into the first two of
 which steam is also introduced. Sulphuric acid is actually produced in
@@ -669,7 +702,7 @@ nitrogen, which, though it does not enter into the reaction at all, has
 to pass through the chambers.
 
 Modern Improvements. Among the modern innovations in the lead chamber
-process, the following are worthy of note. “Atomized water,” that is,
+process, the following are worthy of note. "Atomized water," that is,
 water under high pressure delivered from a fine jet against a metal
 plate, has certain advantages over steam. In order to bring about a more
 rapid mixing of the gases in the chamber, it is proposed to make these
@@ -705,13 +738,13 @@ sulphur dioxide into trioxide.
 This operation, when carried out in a chemical laboratory, is a very
 simple one. Fig. 4 shows the necessary apparatus. Sulphur dioxide from a
 siphon of the liquefied gas and air from a gasholder are passed into the
-Woulff’s bottle A, containing concentrated sulphuric acid; this removes
+Woulff's bottle A, containing concentrated sulphuric acid; this removes
 moisture from the gases. The drying process is completed in the tower B,
 which contains pumice stone soaked in sulphuric acid. The mixed gases
 then pass through the tube C, containing platinized asbestos heated to
-about 400° C.: the sulphur trioxide collects in the cooled receiver D.
+about 400� C.: the sulphur trioxide collects in the cooled receiver D.
 
-    [Illustration: Fig. 4. SULPHUR TRIOXIDE—THE CONTACT PROCESS]
+    [Illustration: Fig. 4. SULPHUR TRIOXIDE--THE CONTACT PROCESS]
 
 Platinized asbestos is made by soaking long-fibred asbestos in a
 solution of platinum chloride. The material is then dried and subjected
@@ -752,7 +785,7 @@ excess of air, is passed into the contact furnace, which consists of
 four tubes, each containing platinized asbestos, supported on perforated
 plates. The union of the two gases is said to be almost complete: an
 efficiency of 98 per cent. of the theoretical value is claimed for this
-process. The sulphur trioxide, or “sulphuric anhydride”[1] is either
+process. The sulphur trioxide, or "sulphuric anhydride"[1] is either
 condensed in tin-lined drums or absorbed in ordinary concentrated
 sulphuric acid.
 
@@ -764,7 +797,7 @@ sufficiently to enable the sulphuric acid produced in this way to be
 sold at the same price as that made by the lead chamber process. Since
 1890, the total quantity of acid made by the contact method has
 increased very rapidly, so that it now furnishes about one-half of the
-world’s supply, and seems likely in time to displace the lead chamber
+world's supply, and seems likely in time to displace the lead chamber
 process altogether.
 
 The history of the rise of the contact process is interesting because it
@@ -777,7 +810,7 @@ working of the contact process was the frequent interruption caused by
 the loss of activity of the contact substance. Iron pyrites always
 contains arsenic which volatilizes on heating, and this quickly caused
 the platinum to lose its activity, or, as it was sometimes rather
-fancifully expressed, “poisoned the catalyst.” Dust also is inevitable,
+fancifully expressed, "poisoned the catalyst." Dust also is inevitable,
 and this, carried forward mechanically with the stream of gas, settled
 on the contact substance and caused the action to cease.
 
@@ -811,8 +844,8 @@ platinized asbestos are surrounded by wider concentric tubes. The gases
 which are about to enter the contact furnace pass through the annular
 space between the two tubes, and are thereby heated to the required
 temperature, while at the same time they serve to cool the inner tubes.
-The most satisfactory temperature is about 400° C. The tubes are first
-warmed to 300° C. to start the reaction, and thereafter the heat evolved
+The most satisfactory temperature is about 400� C. The tubes are first
+warmed to 300� C. to start the reaction, and thereafter the heat evolved
 by the reaction itself is sufficient to keep it going.
 
 The absorption of the sulphur trioxide also caused some difficulty at
@@ -845,7 +878,7 @@ it may be doubted whether new works will now be installed to make
 sulphuric acid by the lead chamber process.
 
 Properties of Sulphuric Acid. The pure non-fuming acid is a colourless
-oily liquid whose density is 1·84. It mixes with water in all
+oily liquid whose density is 1�84. It mixes with water in all
 proportions, yielding dilute sulphuric acid, and it also dissolves
 sulphur trioxide, yielding the fuming acid.
 
@@ -880,7 +913,7 @@ apparatus, otherwise this would soon become blocked with ice.
 The position which sulphuric acid occupies in Chemistry is due mainly to
 three outstanding features. In the first place, it is a strong mineral
 acid and displaces all other acids from their salts. Secondly, it has a
-high boiling point (338° C.), and consequently, the displaced acid with
+high boiling point (338� C.), and consequently, the displaced acid with
 the lower boiling point can be distilled from the mixture. Lastly,
 sulphuric acid can be made very cheaply from materials which are very
 abundant in Nature, and, therefore, it meets all the requirements of an
@@ -921,10 +954,10 @@ not permanent, but can be washed out with water. In order to fix the
 colouring matter, the material is first dipped in the mordant, usually a
 bath of some metallic salt, and then, generally after exposure to air or
 after steaming, into the dye bath, with the result that the colour
-becomes fixed. The first part of the process is called “mordanting” the
+becomes fixed. The first part of the process is called "mordanting" the
 material. The mordant either adheres to or combines with the fibres, and
-the dye forms with the mordant a coloured compound called a “lake,”
-which resists the action of water. The colour is then said to be “fast,”
+the dye forms with the mordant a coloured compound called a "lake,"
+which resists the action of water. The colour is then said to be "fast,"
 that is, firmly fixed.
 
 For printing on calico, the mordant is thickened with gum arabic or
@@ -934,15 +967,15 @@ dipping the material in the dye and afterwards in water, when the colour
 comes away from those parts which have not received the impress of the
 mordant.
 
-Sodium Sulphate, or Glauber’s salt, is made from common salt by the
+Sodium Sulphate, or Glauber's salt, is made from common salt by the
 action of concentrated sulphuric acid. It is one of the raw materials
 used in making glass.
 
 Ammonium Sulphate. (_See_ p. 99.)
 
 Calcium Sulphate, or gypsum, occurs in large quantities in Nature. The
-salt contains 20·9 per cent. of combined water, and when carefully
-heated to 120° C, it loses about two-thirds of this water, yielding a
+salt contains 20�9 per cent. of combined water, and when carefully
+heated to 120� C, it loses about two-thirds of this water, yielding a
 white powder known as plaster of Paris. This substance, when made into a
 paste with water, gradually sets to a hard mass, because the partially
 dehydrated gypsum re-combines with the water.
@@ -951,7 +984,7 @@ Lead Sulphate, the chief impurity of commercial oil of vitriol, is a
 white powder which is very often used for making white paint in place of
 lead carbonate (white lead). The sulphate has the advantage over the
 carbonate in not being so readily discoloured; its disadvantage is that
-it lacks “body.”
+it lacks "body."
 
 Copper Sulphate, or blue vitriol, is frequently found in the drainage of
 copper mines, where it is formed by the oxidation of copper pyrites. It
@@ -981,7 +1014,7 @@ compounds required for the photographic industry are made. The important
 pigments, chrome yellow and chrome red, are prepared from lead nitrate.
 The solvent action of nitric acid on copper is made use of in etching
 designs on copper plates. Over and above all this, it must be mentioned
-that an adequate supply of “nitrate” is required for artificial manure.
+that an adequate supply of "nitrate" is required for artificial manure.
 Thus it can be said that with the uses of this acid and its salts are
 associated our supply of daily bread, our freedom from foreign
 oppression, and many of the refinements and conveniences of life.
@@ -1045,7 +1078,7 @@ is luted on at _f_. The percentage strength of the acid which distils
 over depends upon that of the sulphuric acid used and on the purity of
 the sodium nitrate.
 
-Pure nitric acid is a colourless liquid 1·559 times as heavy as water,
+Pure nitric acid is a colourless liquid 1�559 times as heavy as water,
 volume for volume. It fumes strongly in air, and is a very corrosive
 liquid. The pure acid of commerce is obtained by distillation of a less
 concentrated acid. It is 68 per cent. pure. It is rendered free from
@@ -1094,17 +1127,17 @@ similar to, if not actually the same as, gunpowder. But again the secret
 of its composition was jealously guarded, and it was not until the
 thirteenth century that it was discovered, apparently for the third
 time, and introduced to Western Europe by Roger Bacon. It was used in
-siege cannon early in the fourteenth century and in field guns at Crécy;
+siege cannon early in the fourteenth century and in field guns at Cr�cy;
 but it was apparently not employed for blasting until about 1627,
 although in 1605, Guy Fawkes and his fellow-conspirators were able to
 obtain it in large quantity.
 
-From the battle of Crécy in 1346 to the beginning of the South African
+From the battle of Cr�cy in 1346 to the beginning of the South African
 campaign in 1889, gunpowder was the only explosive used in warfare.
-“Villainous saltpetre” has therefore played a very important part in
-shaping the course of events in the world’s history. At the present day,
-gunpowder has become “old-fashioned.” In warfare, it has been superseded
-by “smokeless” powders of much greater power; while for mining
+"Villainous saltpetre" has therefore played a very important part in
+shaping the course of events in the world's history. At the present day,
+gunpowder has become "old-fashioned." In warfare, it has been superseded
+by "smokeless" powders of much greater power; while for mining
 operations, explosives with a much greater shattering effect have long
 since taken its place.
 
@@ -1135,7 +1168,7 @@ gradually developed and must reach its maximum just as the projectile
 begins to move.
 
 The time factor in the explosion constitutes the difference between what
-we now call “propellants” and “high explosive.” Propellants are
+we now call "propellants" and "high explosive." Propellants are
 explosives which develop pressure gradually, and are therefore used to
 launch the projectile; high explosive develops pressure instantaneously,
 and is therefore used as the bursting charge inside the shell, bomb, or
@@ -1170,17 +1203,17 @@ guncotton.
 
 _Trinitrotoluene_ (T.N.T.) is made from toluene and nitric acid, and is
 a type of the modern high explosive. It is a yellow crystalline
-substance which melts at 79°-81·5° C., and is poured into the shell in a
+substance which melts at 79�-81�5� C., and is poured into the shell in a
 molten condition. It is a remarkably stable substance, which burns
-quickly when heated to 180° C.; it cannot be exploded even by hammering.
+quickly when heated to 180� C.; it cannot be exploded even by hammering.
 Explosion is only brought about by that of a subsidiary substance called
-the detonator. The percentage composition of T.N.T. is as follows—
+the detonator. The percentage composition of T.N.T. is as follows--
 
-  Carbon                      33·5
-  Hydrogen                     2·3
-  Nitrogen                    19·5
-  Oxygen                      44·7
-                             100·0
+  Carbon                      33�5
+  Hydrogen                     2�3
+  Nitrogen                    19�5
+  Oxygen                      44�7
+                             100�0
 
 The oxygen present is only just sufficient to burn the whole of the
 carbon to carbon monoxide; but since carbon dioxide is also formed,
@@ -1282,13 +1315,13 @@ soil which is deficient in nitrate. In 1908, Sir William Crookes called
 attention to the difficulty which might be experienced in the near
 future in supplying the people of the world with bread. Statistics
 showed that wheat was grown on 159,000,000 acres out of a possible
-260,000,000. The average yield is 12·7 bushels per acre. By 1931, it is
+260,000,000. The average yield is 12�7 bushels per acre. By 1931, it is
 calculated that the population of the world will be 1,746,000,000; and
 to supply these with bread, wheat would have to be grown on 264,000,000
 acres, that is, 4,000,000 acres beyond the total available wheat land.
 
 The remedy which Sir William Crookes suggested in order to avoid famine
-was to raise the average yield from 12·7 to 20 bushels per acre by the
+was to raise the average yield from 12�7 to 20 bushels per acre by the
 application of an additional 12,000,000 tons of Chili saltpetre per
 annum. In view of the possible exhaustion of the supply of this
 substance, this would only mean a postponement of the evil day. The
@@ -1299,7 +1332,7 @@ suggestion, is now an accomplished fact.
 
 Nitric Acid from Air. The supply of nitrogen in the air is truly
 inexhaustible; it amounts to about 7 tons for every square yard of the
-earth’s surface, which is about 200,000,000 square miles. It is quite
+earth's surface, which is about 200,000,000 square miles. It is quite
 evident that anything man may do in the way of taking nitrogen from the
 air will make no perceptible difference to its composition.
 
@@ -1323,7 +1356,7 @@ reddish-brown colour due to oxides of nitrogen, which, when shaken with
 water, form a very dilute solution of nitric acid.
 
 The same process is now carried out on a large scale. Air is driven by
-fans through a very powerful electric arc, whereby 1·5 to 2 per cent. is
+fans through a very powerful electric arc, whereby 1�5 to 2 per cent. is
 converted into nitric oxide. This combines spontaneously with more
 oxygen to form nitrogen peroxide, which, when dissolved in water, gives
 a very dilute solution of nitrous and nitric acids.
@@ -1340,7 +1373,7 @@ neutralized with lime, forming calcium nitrate or Norwegian saltpetre,
 as it is now called.
 
 This is a new industry and a rapidly-growing one; in the course of five
-years (1905-1909) the annual output of Norwegian or “air” saltpetre
+years (1905-1909) the annual output of Norwegian or "air" saltpetre
 increased from 115 to 9,422 tons. Mountainous countries like Norway and
 Switzerland are perhaps in a specially favoured position with respect to
 this industry. Rapid streams and waterfalls, in conjunction with
@@ -1360,8 +1393,8 @@ A group of acids, namely, hydrochloric, hydrofluoric, hydrobromic,
 hydriodic, must now be considered together with their corresponding
 salts. In appearance and in other physical properties they resemble one
 another very closely; they are, therefore, called by the general name
-“halogen acids.” This name is derived from the Greek word meaning
-“sea-salt,” which is a mixture of the salts of these acids, and from
+"halogen acids." This name is derived from the Greek word meaning
+"sea-salt," which is a mixture of the salts of these acids, and from
 which the acids themselves can be obtained by treatment with oil of
 vitriol.
 
@@ -1402,7 +1435,7 @@ nuisance.
 
 By the Alkali Act of 1863, chemical manufacturers were compelled to
 prevent the escape of more than 5 per cent. of hydrochloric acid gas;
-and by a subsequent Act, this limit was lowered to 0·2 grain per cubic
+and by a subsequent Act, this limit was lowered to 0�2 grain per cubic
 foot. The provisions of the Acts were not difficult to carry out,
 because hydrogen chloride is extremely soluble in water.
 
@@ -1452,14 +1485,14 @@ chlorination is repeated. Generally this is sufficient; the bleaching
 powder should then contain about 35 per cent. of available chlorine.
 
 The demand for bleaching powder is great and steadily increasing. The
-price of 35 per cent. bleaching powder has never been less than about £5
+price of 35 per cent. bleaching powder has never been less than about �5
 a ton,[3] so that it is perhaps unnecessary to add that the absorption
 of hydrogen chloride gas is now made so complete that it is well within
 the requirements of the second Alkali Act.
 
 Chlorides. The salts of hydrochloric acid are called chlorides, and the
-most important of these is sodium chloride or common salt—a body that is
-so well known that it need not be described here.
+most important of these is sodium chloride or common salt--a body that
+is so well known that it need not be described here.
 
 Although the quantity of this substance required for domestic purposes
 is very large, it is, nevertheless, small by comparison with that which
@@ -1511,7 +1544,7 @@ has fallen are reduced to metallic silver, and this reduction is
 greatest where the light was most intense, and in other places is
 proportional to the light intensity. A very faint image may appear on
 the plate while it is in the developer, but generally the image is only
-brought out clearly when the plate, film, or paper is placed in “hypo”
+brought out clearly when the plate, film, or paper is placed in "hypo"
 solution, which dissolves out the silver salts which have not been
 changed, leaving the metallic silver unaffected.
 
@@ -1527,8 +1560,8 @@ in a vessel from which all air currents are excluded, a mixture of gases
 and liquids is driven off, and a charred mass remains. This residue,
 from whatever source obtained, is composed mainly of the element carbon.
 It sometimes happens that a loaf of bread or a cake is left in the oven
-and forgotten. In popular language it is then said to be “burnt to a
-cinder”; in reality, the surface layers have been converted into carbon.
+and forgotten. In popular language it is then said to be "burnt to a
+cinder"; in reality, the surface layers have been converted into carbon.
 
 Carbonic Acid. If carbon is heated in an open vessel provided with a
 good draught, it glows and in time disappears, because it combines with
@@ -1557,7 +1590,7 @@ bottle. Immediately this pressure is released, the greater part of the
 excess gas escapes, producing effervescence. It is, however, curious to
 note that all the gas which ought to escape when the pressure is reduced
 does not do so at once. If soda water is allowed to stand in an open
-glass until it becomes “flat,” a brisk effervescence can be started
+glass until it becomes "flat," a brisk effervescence can be started
 again by dropping a lump of sugar into the quiescent liquid. Soda water
 remains supersaturated with gas for some time after the pressure has
 been released.
@@ -1667,9 +1700,9 @@ use.
 The chief impurities which cause hardness are the chlorides, sulphates,
 and bicarbonates of magnesium and calcium. The chlorides and sulphates
 are not affected in any way by boiling, and the hardness which is due to
-them is said to be “permanent.” The bicarbonates, on the other hand, are
+them is said to be "permanent." The bicarbonates, on the other hand, are
 decomposed when the water is boiled, and then they cease to cause the
-water to be hard. This part of the hardness is spoken of as “temporary”
+water to be hard. This part of the hardness is spoken of as "temporary"
 hardness.
 
 Let us now consider what calcium bicarbonate is and how it is formed. It
@@ -1683,8 +1716,8 @@ Temporary hardness is the more troublesome. In the first place, the
 bicarbonates, especially that of calcium, often form the greater part of
 the dissolved impurity. Moreover, when the water is boiled, although the
 hardness is removed, the insoluble calcium carbonate is a source of
-trouble, for it gradually settles down into the hard mass known as “fur”
-in kettles and “scale” in boilers.
+trouble, for it gradually settles down into the hard mass known as "fur"
+in kettles and "scale" in boilers.
 
 It is perhaps necessary at this point to emphasize the fact that matter
 _suspended_ in water does not make it hard, and it is only matter which
@@ -1726,7 +1759,7 @@ Bone. Much of the refuse bone, sooner or later, reaches the marine
 store, and from that point starts on a career of usefulness in the
 industrial world.
 
-“Green bone,” as it is then called, may have fat adhering to it or
+"Green bone," as it is then called, may have fat adhering to it or
 confined in its hollow interior as marrow. This is recovered by
 treatment with benzine, and after that the bone is subjected to the
 action of superheated steam in order to convert cartilage into glue. In
@@ -1746,7 +1779,7 @@ property of absorbing colouring matter, and is used for this purpose in
 the sugar industry and in the preparation of fine chemicals.
 
 Phosphoric Acid. After being some time in use, bone black loses the
-property of absorbing colouring matter; and though it can be “revived”
+property of absorbing colouring matter; and though it can be "revived"
 several times by heating it strongly in a closed retort, it ultimately
 becomes spent and of no further use to the sugar refiner. It is then
 heated again, this time in an open vessel, until all the carbon is burnt
@@ -1758,7 +1791,7 @@ The salt is decomposed by sulphuric acid in wooden vats; calcium
 sulphate is formed, and ultimately settles on the bottom of the vat,
 leaving a clear supernatant liquid, which is a dilute solution of
 phosphoric acid. This liquid is drawn off and evaporated to a syrup.
-This is “syrupy” phosphoric acid. On being still more strongly heated,
+This is "syrupy" phosphoric acid. On being still more strongly heated,
 the syrup loses still more water, and a semi-transparent glassy-looking
 substance, called metaphosphoric acid, remains.
 
@@ -1771,7 +1804,7 @@ the case of a substance like calcium phosphate, which is practically
 insoluble in water.
 
 To get over this difficulty, calcium phosphate is converted into a
-mixture known as “superphosphate” by the following process. Bone ash or
+mixture known as "superphosphate" by the following process. Bone ash or
 the mineral phosphate is finely ground and thoroughly mixed by machinery
 with two-thirds its weight of sulphuric acid from the lead chambers.
 After a time, this mixture sets to a hard mass, containing principally
@@ -1797,7 +1830,7 @@ Bessemer process was, therefore, modified by Thomas and Gilchrist, and
 the converter for this kind of iron is lined with dolomite and lime
 (basic lining). Phosphorus is then converted into phosphate and retained
 by the lining, which is subsequently removed, ground up finely, and sold
-as “basic slag.”
+as "basic slag."
 
 Boric Acid, or boracic acid, is familiar because it is used in medicine
 as a mild antiseptic; it is also employed as a preservative for food. It
@@ -1809,11 +1842,11 @@ forming salts.
 
 Borax, the best known salt of boric acid, is used in laundry work and
 also for making some enamels, for when it is strongly heated it loses
-water, and ultimately melts down to a clear “glass” in which the oxides
+water, and ultimately melts down to a clear "glass" in which the oxides
 of metals will dissolve, yielding transparent substances which are
 beautifully coloured according to the nature of the oxide used. This
 property is often made use of in chemical analysis in what is known as
-the “borax-bead” test.
+the "borax-bead" test.
 
     [Illustration: Fig. 9. BORIC ACID]
 
@@ -1860,7 +1893,7 @@ the top of the incline to flow down again and lose more water. The boric
 acid is finally transferred to drying chambers, which are also heated by
 the natural steam.
 
-Native borax or “tinkal” comes from Thibet and also from Ceylon. In
+Native borax or "tinkal" comes from Thibet and also from Ceylon. In
 California, a large quantity of borax is obtained from a borax lake, and
 also from the mud of marshes in its neighbourhood.
 
@@ -1881,9 +1914,9 @@ on it. The melting point of silica is very high.
 
 Sometimes silica is very delicately coloured with minute traces of
 metallic oxides and other substances, and these forms, because of their
-rarity and beauty, are more highly valued. Smoky quartz, cat’s-eye, and
+rarity and beauty, are more highly valued. Smoky quartz, cat's-eye, and
 amethyst are some of the coloured varieties of quartz. Opal, agate,
-jasper, onyx, and chalcedony are, in the chemist’s classification,
+jasper, onyx, and chalcedony are, in the chemist's classification,
 merely coloured flints.
 
 In recent years, chemical apparatus has been made from pure fused
@@ -1956,12 +1989,12 @@ modified by the use of litharge, or more often red lead, in place of
 lime.
 
 The ingredients are well mixed and thoroughly dried. Waste glass from a
-previous batch is also added. The mixture is heated to about 1200° C. in
+previous batch is also added. The mixture is heated to about 1200� C. in
 large pots made of Stourbridge clay, and the heating is continued for as
 much as sixteen hours, and until the whole of the material in the pot is
 molten and fairly mobile. Scum or glass-gall is removed, and when gas
 bubbles have disappeared, the temperature is allowed to fall to
-700°-800°, when the glass becomes sufficiently viscous for subsequent
+700�-800�, when the glass becomes sufficiently viscous for subsequent
 working. The semi-fluid mass is then blown, moulded, or drawn, according
 to the kind of article that is required.
 
@@ -2010,8 +2043,8 @@ and specimens of old window glass are often seen to have lost their
 transparency completely and to have an opalescent sheen. In these cases,
 the silicates have crystallized.
 
-An extreme case of badly annealed glass is illustrated by Rupert’s
-drops, a scientific curiosity of very old standing. These are “tears” of
+An extreme case of badly annealed glass is illustrated by Rupert's
+drops, a scientific curiosity of very old standing. These are "tears" of
 glass made by dropping the molten substance into water. When the tail of
 the drop is nipped off, the whole thing is shattered to powder with
 something like explosive violence. Clearly there is a very great
@@ -2053,8 +2086,8 @@ was still in its infancy, several substances were known which could then
 only be obtained from animals or plants. The composition of these
 substances was not understood, and they were not classified; moreover,
 since none of them had ever been prepared artificially, it was supposed
-that it was impossible to do this—the reason given was that “vital
-force” was necessary for their production. In time, however, some of the
+that it was impossible to do this--the reason given was that "vital
+force" was necessary for their production. In time, however, some of the
 most typical animal and vegetable products were prepared in the
 laboratory, and the belief in vital force disappeared.
 
@@ -2110,7 +2143,7 @@ If the plant is placed in dilute spirits of wine, only a very little
 acetic acid is formed, and then the action ceases because the solution
 does not contain the necessary food substances. Temperature also has a
 very marked effect on growth, the most favourable range being between
-68° and 95° F.
+68� and 95� F.
 
 Alcohol is changed to acetic acid by the process of oxidation, and
 therefore, in making vinegar, arrangements have to be made to bring
@@ -2124,7 +2157,7 @@ action of platinum black; in fact, there is one process for making
 vinegar in this way.
 
 French Vinegar. New wine, especially that which contains a low
-percentage of alcohol, is liable to many kinds of “sickness.” It may
+percentage of alcohol, is liable to many kinds of "sickness." It may
 turn bitter, it may turn sour, or it may undergo what is called lactic
 fermentation. In either case, it becomes unsaleable as a beverage. Wine
 which has turned sour is the best material for making vinegar, and when
@@ -2134,7 +2167,7 @@ _bouquet_ is obtained.
 The methods adopted are very simple. Formerly, the wine was poured into
 barrels leaving the top portion empty, and providing for a current of
 air over the surface. The barrels were often set up in rows in the open
-air in an enclosure which was then known as a “vinegar field.” The
+air in an enclosure which was then known as a "vinegar field." The
 process of souring which had already begun went on naturally, and in the
 course of a few months, nearly the whole of the alcohol was converted
 into acetic acid.
@@ -2163,8 +2196,8 @@ the growth of the vinegar plant, and can therefore be used as a
 starting-point for the manufacture of vinegar. Sprouted barley or malt
 is mixed with oats, barley, rice, or other starch-containing material.
 The mixture is mashed with warm water and then fermented with yeast,
-giving what is called “raw spirit.” This is converted into vinegar by
-the “quick” process.
+giving what is called "raw spirit." This is converted into vinegar by
+the "quick" process.
 
 The vinegar generator (Fig. 10) is a large barrel divided into three
 compartments by two perforated partitions. The lower disc is fixed about
@@ -2240,7 +2273,7 @@ then distilled with concentrated sulphuric acid. Acetic acid, being the
 more volatile of the two acids, distils over, and is nearly pure.
 
 The method of removing the last traces of water depends upon the fact
-that acetic acid solidifies at 17° C. The acid, which is nearly, but not
+that acetic acid solidifies at 17� C. The acid, which is nearly, but not
 quite, free from water, is cooled until a portion solidifies. The part
 which still remains liquid is poured away, and the process is repeated
 until a residue is obtained which solidifies as a whole. This is glacial
@@ -2251,12 +2284,12 @@ look like newly-formed ice.
                               The Acetates
 
 Aluminium Acetate, made by dissolving alumina in acetic acid, is the
-“red liquor” which is used as a mordant in dyeing. It is a colourless
-liquid, but is called “red liquor” because it is used with dyes which
+"red liquor" which is used as a mordant in dyeing. It is a colourless
+liquid, but is called "red liquor" because it is used with dyes which
 give a red colour.
 
 Ferrous Acetate, made in a similar way from scrap iron and acetic acid,
-is the “black liquor” used in dyeing.
+is the "black liquor" used in dyeing.
 
 Verdigris, or basic copper acetate, is a valuable pigment. It is made by
 interposing cloths soaked in vinegar between plates of copper. After the
@@ -2388,15 +2421,15 @@ now made from glycerine and oxalic acid.
 
 The Fatty Acids. Animal fats and vegetable oils are similarly
 constituted bodies. They are composed mainly of three chemical compounds
-known as stearin, palmitin, and oleïn. Of these, stearin and palmitin
-are solids at ordinary temperatures, while oleïn is a liquid. Hard fats
+known as stearin, palmitin, and ole�n. Of these, stearin and palmitin
+are solids at ordinary temperatures, while ole�n is a liquid. Hard fats
 like those of mutton and beef are composed mainly of stearin; fats of
-medium hardness contain stearin, palmitin, and some oleïn; while oils
-such as cod-liver oil and olive oil are nearly pure oleïn.
+medium hardness contain stearin, palmitin, and some ole�n; while oils
+such as cod-liver oil and olive oil are nearly pure ole�n.
 
-Stearin, palmitin, and oleïn are analogous in composition to salts.
+Stearin, palmitin, and ole�n are analogous in composition to salts.
 Their proximate constituents are glycerine and certain organic acids,
-stearic, palmitic, and oleïc respectively.
+stearic, palmitic, and ole�c respectively.
 
 In order to obtain the fat free from tissue which it contains in its
 natural state, it is tied up in a muslin bag and heated in boiling
@@ -2406,16 +2439,16 @@ cooling. This clarified fat is called tallow.
 
 All fats and vegetable oils can be resolved into their two constituents,
 the acid and the glycerine. This can be brought about by heating the fat
-with water to about 200° C. This operation must be carried out in a
+with water to about 200� C. This operation must be carried out in a
 vessel capable of withstanding pressure and closed with a safety valve;
 otherwise, the requisite temperature could not be obtained. After this
 treatment, there is left in the vessel an oily layer which solidifies on
 cooling and an aqueous layer which contains the glycerine. The
 solidified oily layer is the fatty acid. In the case of mutton or beef
 tallow, it would be mainly a mixture of stearic and palmitic acids. This
-mixture is used to make “stearin” candles. The acids themselves are
-wax-like solids without any distinctive taste. Stearic acid melts at 69°
-C. and palmitic at 62° C. They have no perceptible action on the colour
+mixture is used to make "stearin" candles. The acids themselves are
+wax-like solids without any distinctive taste. Stearic acid melts at 69�
+C. and palmitic at 62� C. They have no perceptible action on the colour
 of litmus, neither have they any solvent action on metals or carbonates.
 We should not recognize these substances as acids at all were it not for
 the fact that they combine with alkalis, forming salts.
@@ -2428,7 +2461,7 @@ above by heating with water under pressure, we get the sodium or
 potassium salt of the acid according to the alkali used. When caustic
 soda is used, the product is a hard soap; when caustic potash is used,
 it is a soft soap. The treatment of fats in this way with caustic
-alkalis is called “saponification.”
+alkalis is called "saponification."
 
 
 
@@ -2450,7 +2483,7 @@ The disintegrating action of the caustic alkalis is also illustrated by
 the use of caustic soda in the preparation of wood pulp for paper
 making. Tree trunks are first torn up and shredded by machinery; but
 notwithstanding the power of modern machinery, the fibre is not nearly
-fine enough for the purpose until it has been “beaten” with a solution
+fine enough for the purpose until it has been "beaten" with a solution
 of caustic soda, whereby the pulp is brought to a smooth and uniform
 consistency like that of thin cream.
 
@@ -2502,7 +2535,7 @@ loss of weight observed and also for the formation of the white layer of
 partially dehydrated soda over the surface of the crystal. The property
 of losing water in this way is common to most crystals containing a high
 percentage of water of crystallization. The phenomenon is known as
-“efflorescence.” It may here be observed that crystals of washing soda
+"efflorescence." It may here be observed that crystals of washing soda
 which have become coated over in this way contain relatively more soda
 than those which are transparent.
 
@@ -2522,7 +2555,7 @@ African Protectorate, beneath the shallow waters of Lake Magadi
 200,000,000 tons.
 
 The Leblanc Process. At the present time, the greater part of the
-world’s supply of soda is made from common salt by two processes. The
+world's supply of soda is made from common salt by two processes. The
 older of these, which is known as the Leblanc process, was introduced in
 France towards the end of the eighteenth century. In those days soda was
 very dear, for the main supply came from the ashes of seaweeds;
@@ -2530,7 +2563,7 @@ wherefore the French Academy of Sciences, in 1775, offered a prize for
 the most suitable method of converting salt into soda on a manufacturing
 scale. The prize was won by Nicholas Leblanc, who in 1791 started the
 first soda factory near Paris. These were the days of the French
-Revolution; the “Comité de Sûreté Général” abolished monopolies and
+Revolution; the "Comit� de S�ret� G�n�ral" abolished monopolies and
 ordered citizen Leblanc to publish the details of his process.
 
     [Illustration: Fig. 12. SALT CAKE FURNACE]
@@ -2542,7 +2575,7 @@ process.
 
 Salt Cake. The first stage of the Leblanc process consists in mixing a
 charge of salt weighing some hundredweights with the requisite amount of
-“chamber” sulphuric acid. The operation is carried out in a circular
+"chamber" sulphuric acid. The operation is carried out in a circular
 cast-iron pan (D, Fig. 12) about 9 ft. in diameter and 2 ft. deep. The
 pan is covered over with a dome of brickwork, leaving a central flue (E)
 for the escape of hydrochloric acid gas which is produced. At first, the
@@ -2551,14 +2584,14 @@ end the mass is heated for about one hour. The contents of the pan are
 then raked out on to the hearth of a reverberatory furnace (_a_, _b_)
 and more strongly heated. More hydrochloric acid gas is given off, and
 the reaction is completed. The solid product which remains is impure
-Glauber’s salt (sodium sulphate), and is known in the trade as “salt
-cake.”
+Glauber's salt (sodium sulphate), and is known in the trade as "salt
+cake."
 
 Black Ash. In the second stage of the Leblanc process, salt cake is
 converted into black ash. The salt cake is crushed and mixed with an
 equal weight of powdered limestone or chalk and half its weight of coal
 dust. This mixture is introduced into a reverberatory furnace (Fig. 13)
-by the hopper K, and heated to about 1000° C. by flames and hot gases
+by the hopper K, and heated to about 1000� C. by flames and hot gases
 from a fire at _a_. During this operation, the mass is kept well mixed,
 and after some time it is transferred to _h_ where the temperature is
 higher. The mixture then becomes semi-fluid and carbon monoxide gas is
@@ -2644,13 +2677,13 @@ When bicarbonate of soda is heated, it does not melt, and, as far as its
 external appearance is concerned, it does not seem to undergo any
 change. If, however, suitable arrangements are made, water and carbon
 dioxide gas can be collected, and the sodium bicarbonate will be found
-to have lost 36·9 per cent. of its weight. The substance which remains
+to have lost 36�9 per cent. of its weight. The substance which remains
 is identical with that obtained by heating soda crystals, that is,
 anhydrous sodium carbonate. Sodium bicarbonate is, therefore, a compound
 of sodium carbonate and carbonic acid.
 
 The most familiar use of this compound is indicated by its common names
-“baking-soda” and “bread-soda.” It is mixed with dough or other similar
+"baking-soda" and "bread-soda." It is mixed with dough or other similar
 material in order to keep this from settling down to a hard solid mass
 in baking. The way in which bicarbonate of soda prevents this will be
 readily understood when it is remembered that an ounce of this substance
@@ -2681,7 +2714,7 @@ that a new start could be made. In that year, about 3,000 tons of soda
 were produced by the ammonia-soda or Solvay process, as it has now come
 to be known. Since then, however, the quantity produced annually has
 been steadily increasing, until at the present time it amounts to more
-than half of the world’s supply.
+than half of the world's supply.
 
 The Solvay process is very simple in theory. Purified brine is saturated
 first with ammonia gas and then with carbon dioxide. Water, ammonia, and
@@ -2691,17 +2724,17 @@ chloride.
 
 The principal reaction is carried out in a tower (Fig. 14 (1), _a_, _a_)
 from 50 to 65 ft. in height and about 6 ft. in diameter. At intervals of
-about 3½ ft. throughout its length, the tower is divided into sections
-by pairs of transverse discs, one flat with a large central hole, and
-one hemispherical and perforated with small holes (Fig. 14 (2)). The
-discs are kept in position by a guide rod G. Fig. 14 (3) shows a better
-arrangement of the guide rods. In modern works, the space between the
-discs is kept cool by pipes conveying running water. The ammoniated
-brine is led into the tower near its middle point. The carbon dioxide is
-forced in at E in the lowest segment, and as it passes up the tower it
-is broken up into small bubbles by the sieve plates. Sodium bicarbonate
-separates out as a fine powder, which makes its way to the bottom of the
-tower suspended in the liquid.
+about 3-1/2 ft. throughout its length, the tower is divided into
+sections by pairs of transverse discs, one flat with a large central
+hole, and one hemispherical and perforated with small holes (Fig. 14
+(2)). The discs are kept in position by a guide rod G. Fig. 14 (3) shows
+a better arrangement of the guide rods. In modern works, the space
+between the discs is kept cool by pipes conveying running water. The
+ammoniated brine is led into the tower near its middle point. The carbon
+dioxide is forced in at E in the lowest segment, and as it passes up the
+tower it is broken up into small bubbles by the sieve plates. Sodium
+bicarbonate separates out as a fine powder, which makes its way to the
+bottom of the tower suspended in the liquid.
 
 The perforated plates are necessary for the proper distribution of
 carbon dioxide through the brine. They are, however, a source of
@@ -2755,7 +2788,7 @@ newer electrical methods, which will be mentioned in the last chapter.
 
 The following table shows very clearly the rapid progress made by the
 Solvay process in ten years. The quantities are given in _tonnes_ (1
-tonne = 0·9842 ton).
+tonne = 0�9842 ton).
 
                                   1884.                   1894.
                           _Leblanc     _Solvay    _Leblanc     _Solvay
@@ -2763,10 +2796,10 @@ tonne = 0·9842 ton).
   Great Britain           380,000      52,000     340,000      181,000
   Germany                  56,500      44,000      40,000      210,000
   France                   70,000      57,000      20,000      150,000
-  United States                 —       1,100      20,000       80,000
+  United States                --       1,100      20,000       80,000
   Austria-Hungary          39,000       1,000      20,000       75,000
-  Russia                        —           —      10,000       50,000
-  Belgium                       —       8,000       6,000       30,000
+  Russia                       --          --      10,000       50,000
+  Belgium                      --       8,000       6,000       30,000
                           545,500     163,100     456,000      776,000
 
 Mild Potash. Potassium carbonate (mild potash) was formerly obtained
@@ -2776,16 +2809,16 @@ later, potash. A whiter product was obtained by calcining the residue,
 and this was distinguished as _pearl-ash_. Chemically pure potassium
 carbonate was formerly obtained by igniting cream of tartar (potassium
 hydrogen tartrate) with an equal weight of nitre. It is for this reason
-that potassium carbonate is sometimes called “salt of tartar.”
+that potassium carbonate is sometimes called "salt of tartar."
 
 About the middle of last century, natural deposits of potassium chloride
 were discovered in Germany. The beds of rock salt near Stassfurt are
 covered over with a layer of other salts, and for many years these were
-removed and cast aside as “waste salts” (_abraumsalze_). When at a later
+removed and cast aside as "waste salts" (_abraumsalze_). When at a later
 date they were examined more carefully, they were found to contain
 valuable potassium compounds, notably the chloride. After that
 discovery, mild potash was made by the Leblanc process., and Germany
-controlled the world’s markets for all potassium compounds.
+controlled the world's markets for all potassium compounds.
 
 At the outbreak of war, the German supplies of potassium compounds
 ceased as far as the allied nations were concerned, and an older method
@@ -2824,7 +2857,7 @@ furnished the chemist with a very powerful agency for bringing about the
 decomposition of compounds. Hydrogen and oxygen were soon obtained by
 passing an electric current through acidulated water; and in 1807, Sir
 Humphry Davy, who is perhaps better remembered for his invention of the
-miners’ lamp, isolated the metals sodium and potassium by subjecting
+miners' lamp, isolated the metals sodium and potassium by subjecting
 caustic soda and caustic potash respectively to the action of the
 current.
 
@@ -2844,7 +2877,7 @@ of the metals on water, but for production on a large scale, less
 expensive methods are adopted.
 
 Caustic Alkali is obtained from the corresponding mild alkali in the
-following way. The substance—washing soda, for example—is dissolved in
+following way. The substance--washing soda, for example--is dissolved in
 water and the solution is warmed. Lime is stirred into this solution,
 and from time to time a small test portion of the _clear_ supernatant
 liquid is removed and mixed with a dilute mineral acid. When this ceases
@@ -2857,7 +2890,7 @@ until the liquid which remains solidifies when cold.
 
 Caustic Soda. To describe the process by which caustic soda is
 manufactured, we must return to the making of black ash. The mixture
-from which black ash is made contains limestone. It is heated to 1000°
+from which black ash is made contains limestone. It is heated to 1000�
 C., which is a sufficiently high temperature to convert limestone into
 lime. When the black ash is subsequently treated with water, the lime
 which is present converts some of the mild alkali to caustic;
@@ -2898,10 +2931,10 @@ Lime is also a very valuable substance in agriculture, especially on
 damp, boggy land, where there is much decaying vegetable matter, and on
 land which has been liberally manured. The soil in these cases is very
 likely to become acid and is then unproductive. Lime is added to
-“sweeten” the soil; in other words, to neutralize the acid.
+"sweeten" the soil; in other words, to neutralize the acid.
 
-Ammonia. The pungent smelling liquid popularly known as “spirits of
-hartshorn” is a solution of ammonia gas in water. It is a caustic alkali
+Ammonia. The pungent smelling liquid popularly known as "spirits of
+hartshorn" is a solution of ammonia gas in water. It is a caustic alkali
 and, as such, is sometimes used to remove grease spots. Here, however,
 we shall consider ammonia only in connection with ammonium salts, some
 of which are used in very large quantity as fertilizers.
@@ -2937,7 +2970,7 @@ as a solid by evaporation.
 Ammonium Chloride. Like all other alkalis, ammonia solution neutralizes
 acids, forming salts. With hydrochloric acid, it produces the white
 solid known as _sal ammoniac_ or ammonium chloride. This compound is
-familiar as the one required to make the liquid used in a Leclanché
+familiar as the one required to make the liquid used in a Leclanch�
 cell, which is generally used as the current generator for electric
 bells.
 
@@ -2949,8 +2982,8 @@ slowly and is, therefore, used as the basis for smelling salts.
 Ammonium Nitrate is obtained by passing ammonia gas into nitric acid
 until it is neutralized. It is a white solid, which melts easily on
 being heated, and breaks up into water and nitrous oxide (laughing gas),
-which is the “gas” administered by dentists. Ammonium nitrate is also
-used in the composition of some explosives: for example, “ammonite” is
+which is the "gas" administered by dentists. Ammonium nitrate is also
+used in the composition of some explosives: for example, "ammonite" is
 said to contain 80 per cent. of this substance.
 
 Ammonium Sulphate is used chiefly as an artificial manure; the amount
@@ -2972,11 +3005,11 @@ hydrogen, and, as before mentioned, the supply of free nitrogen in the
 air is literally inexhaustible. In recent years, the efforts of chemists
 have been directed towards finding a method of converting the free
 nitrogen of the air into some simple soluble compound. This problem is
-usually spoken of as the “fixation of nitrogen.”
+usually spoken of as the "fixation of nitrogen."
 
 In the Haber process, nitrogen obtained by the fractional distillation
 of liquid air is mixed with three times its volume of hydrogen, and this
-mixture is heated to between 500°C. and 700°C. under a pressure of 150
+mixture is heated to between 500�C. and 700�C. under a pressure of 150
 atmospheres (nearly 1 ton to the square inch) and in the presence of a
 contact agent. Under these conditions, nitrogen and hydrogen combine to
 form ammonia, which is condensed by passing the mixed gases into a
@@ -3040,12 +3073,12 @@ electricity.
 
 The apparatus required in a very simple case is shown in Fig. 15. It
 merely consists of some suitable vessel to contain the liquid; two
-plates—one to lead the current into the solution, the other to lead it
-away again—and wires to connect the plates to the poles of a battery,
+plates--one to lead the current into the solution, the other to lead it
+away again--and wires to connect the plates to the poles of a battery,
 storage-cell, or dynamo. Each plate is called an _electrode_, and
 distinguished as positive or negative according as it is joined to the
 positive or negative pole of the current generator. By convention,
-electricity is supposed to “flow” from the positive pole of the battery
+electricity is supposed to "flow" from the positive pole of the battery
 to the positive electrode or _anode_, and then through the solution to
 the negative electrode or _cathode_, and so back to the negative pole of
 the generator, thus completing the circuit external to the battery.
@@ -3056,7 +3089,7 @@ least two parts called _ions_. These are atoms, or groups of atoms,
 which have either acquired or lost one or more _electrons_.[5] They move
 about quite independently of one another and in any direction until the
 electrodes are placed in the liquid. Then they are constrained to move
-in two opposing streams—those which have acquired electrons all move
+in two opposing streams--those which have acquired electrons all move
 towards the negative electrode, and those which have lost electrons
 towards the other. At the electrodes themselves, the former give up and
 the latter take up electrons, and become atoms again. Let us now
@@ -3079,7 +3112,7 @@ solution appears to be an ideally simple method of obtaining caustic
 soda and chlorine from sodium chloride. As a manufacturing process, it
 would seem to be perfect, for the salt is broken up directly into its
 elements and a secondary reaction gives caustic soda automatically.
-There is no “waste” as in the Leblanc process, and it does not require
+There is no "waste" as in the Leblanc process, and it does not require
 the use of any expensive intermediary substance afterwards to be
 recovered, as in the Solvay process. But, as very often happens when
 working on a large scale, difficulties arise, and these up to the
@@ -3094,7 +3127,7 @@ and anodic compartments. As long as the partition is porous to liquids,
 it will allow the current to pass, but at the same time it will greatly
 retard the mixing of the contents of the two compartments. Porous
 partitions or cells which are in common use for batteries are made of
-“biscuit” or unglazed porcelain.
+"biscuit" or unglazed porcelain.
 
 It must be remembered, however, that porous partitions only retard the
 mixing of liquids; they do not prevent it. Moreover, a further
@@ -3156,7 +3189,7 @@ which this can be dispensed with.
 Another interesting application of electrolysis is furnished by the use
 of copper sulphate in industry. When this salt is dissolved in water, it
 breaks up into copper ions (positive) and an equal number of negative
-ions, composed of 1 atom of sulphur and 4 atoms of oxygen (SO″4). Under
+ions, composed of 1 atom of sulphur and 4 atoms of oxygen (SO"4). Under
 the influence of the current copper ions travel to the cathode, and
 there by the gain of two electrons become copper atoms. Now, since
 copper is not soluble in copper sulphate solution, and is not volatile
@@ -3199,36 +3232,36 @@ it can be stripped off, giving a positive replica of the object.
                                    A
   Acetic acid (glacial), 73
   Acids, early notions of, 1
-  ——, fatty, 78
-  ——, mineral, 68
-  ——, vegetable, 68
+  ----, fatty, 78
+  ----, mineral, 68
+  ----, vegetable, 68
   Agate, 61
   Air-saltpetre, 42
   Alkali Acts, 44
-  ——, caustic, 96
-  ——, metals, 95
-  ——, mild, 80
-  —— waste, 87
+  ----, caustic, 96
+  ----, metals, 95
+  ----, mild, 80
+  ---- waste, 87
   Alkalis, properties, 3
   Aluminium acetate, 73
   Alums, the, 26
   Amethyst, 61
   Ammonal, 36
   Ammonia, 97
-  ——, synthetic, 99
+  ----, synthetic, 99
   Ammonite, 99
   Ammonium carbonate, 99
-  —— chloride, 98
-  —— nitrate, 99
-  —— sulphate, 99
+  ---- chloride, 98
+  ---- nitrate, 99
+  ---- sulphate, 99
   Anhydride, an, 21
   Anode, 103
   Argol, 76
   Asbestos, 63
-  ——, platinized, 19
+  ----, platinized, 19
   Ash, black, 84
-  ——, pearl, 93
-  ——, soda, 10, 92
+  ----, pearl, 93
+  ----, soda, 10, 92
   Atolls, 51
   Atomized water, 18
 
@@ -3245,9 +3278,9 @@ it can be stripped off, giving a positive replica of the object.
   Boiler scale, 54
   Bonbonnes, 31
   Bone, 56
-  —— ash, 57
-  —— black, 56
-  —— meal, 56
+  ---- ash, 57
+  ---- black, 56
+  ---- meal, 56
   Borax, 59
   Bordeaux mixture, 7
   Boric acid, 58
@@ -3257,22 +3290,22 @@ it can be stripped off, giving a positive replica of the object.
 
                                     C
   Calcium acetate, 5
-  —— bicarbonate, 54
-  —— carbonate, 50
-  —— fluoride, 47
-  —— nitrate, 29
-  —— phosphate, 56
-  —— sulphate, 27
+  ---- bicarbonate, 54
+  ---- carbonate, 50
+  ---- fluoride, 47
+  ---- nitrate, 29
+  ---- phosphate, 56
+  ---- sulphate, 27
   Calc spar, 50
   Caliche, 29
   Calico printing, 26
   Carbon, 49
   Carbonic acid, 49
-  —— —— gas, 49
+  ---- ---- gas, 49
   Castner process, 105
   Catalytic action, 20
   Cathode, 103
-  Cat’s-eye, 61
+  Cat's-eye, 61
   Cavendish, H., 40
   Cellulose, 46
   Chalcedony, 61
@@ -3284,13 +3317,13 @@ it can be stripped off, giving a positive replica of the object.
   Chlorides, 47
   Chlorine, 46
   Chrome yellow, 28
-  —— red, 28
+  ---- red, 28
   Compound, 7
   Compounds, binary, 8
   Contact action, 20
-  —— process, 18
+  ---- process, 18
   Copper refining, 107
-  —— sulphate, 5, 27
+  ---- sulphate, 5, 27
   Coral reefs, 51
   Cordite, 34
   Cream of tartar, 76
@@ -3320,7 +3353,7 @@ it can be stripped off, giving a positive replica of the object.
                                     F
   Felspars, 62
   Ferrous acetate, 74
-  —— sulphate, 25
+  ---- sulphate, 25
   Flint, 61
   Fluorspar, 48
   Formic acid, 78
@@ -3330,18 +3363,18 @@ it can be stripped off, giving a positive replica of the object.
                                     G
   Garnet, 63
   Gas, laughing, 99
-  —— lime, 12
-  —— liquor, 98
+  ---- lime, 12
+  ---- liquor, 98
   Gay Lussac tower, 16
   Glass, 64
-  ——, annealing of, 65
-  ——, Bohemian, 63
-  ——, etching on, 47
-  ——, flint, 63
-  ——, lead, 63
-  ——, soda, 63
-  ——, water, 66
-  Glauber’s salt, 10
+  ----, annealing of, 65
+  ----, Bohemian, 63
+  ----, etching on, 47
+  ----, flint, 63
+  ----, lead, 63
+  ----, soda, 63
+  ----, water, 66
+  Glauber's salt, 10
   Glover tower, 17
   Glue, 56
   Graphite, 108
@@ -3355,9 +3388,9 @@ it can be stripped off, giving a positive replica of the object.
   Haber process, 100
   Halogen, 43
   Hardness, permanent, 53
-  ——, temporary, 53
+  ----, temporary, 53
   Hartshorn, salt of, 99
-  ——, spirits of, 97
+  ----, spirits of, 97
   Hornblende, 63
   Hydriodic acid, 48
   Hydrobromic acid, 48
@@ -3383,17 +3416,17 @@ it can be stripped off, giving a positive replica of the object.
                                     L
   Lake, 26
   Lead acetate, 75
-  —— chambers, 17
-  —— chamber process, 14
-  ——, sugar of, 75
-  —— sulphate, 27
-  ——, white, 75
+  ---- chambers, 17
+  ---- chamber process, 14
+  ----, sugar of, 75
+  ---- sulphate, 27
+  ----, white, 75
   Leblanc soda process, 82
   Leguminosae, 37
   Lemon, salts of, 77
   Lime burning, 51
-  ——, caustic, 97
-  —— kiln, 51
+  ----, caustic, 97
+  ---- kiln, 51
   Limestone, 50
   Litmus, 2
   Lupin root, 37
@@ -3410,20 +3443,20 @@ it can be stripped off, giving a positive replica of the object.
 
                                     N
   Neutralization, example of, 4
-  ——, explanation of, 3
+  ----, explanation of, 3
   Niagara, 101
   Nitre, 29
-  —— pots, 14
+  ---- pots, 14
   Nitric acid, 30
-  —— ——, from air, 40
-  —— ——, importance of, 28
-  —— —— manufacture of, 30
-  —— ——, properties, 31
-  —— ——, red fuming, 31
-  —— oxide, 16
+  ---- ----, from air, 40
+  ---- ----, importance of, 28
+  ---- ---- manufacture of, 30
+  ---- ----, properties, 31
+  ---- ----, red fuming, 31
+  ---- oxide, 16
   Nitrogen cycle, 37
-  ——, fixation of, 100
-  —— peroxide, 16
+  ----, fixation of, 100
+  ---- peroxide, 16
   Nitroglycerine, 34
 
 
@@ -3439,14 +3472,14 @@ it can be stripped off, giving a positive replica of the object.
   Palmitin, 78
   Pearls, 51
   Peregrine Phillips, 21
-  Philosopher’s stone, 2
+  Philosopher's stone, 2
   Phosphoric acid, 57
   Plaster of Paris, 27
   Potash, caustic, 97
-  ——, mild, 93
+  ----, mild, 93
   Potassium, 95
-  —— bicarbonate, 94
-  —— nitrate, 29
+  ---- bicarbonate, 94
+  ---- nitrate, 29
   Propellants, 33
   Prussian blue, 25
   Pyrites burners, 14
@@ -3455,54 +3488,54 @@ it can be stripped off, giving a positive replica of the object.
 
                                     Q
   Quartz, 61
-  —— fibres, 62
-  ——, smoky, 61
+  ---- fibres, 62
+  ----, smoky, 61
   Quicklime, 5, 51
 
 
                                     R
   Red liquor, 73
   Rock crystal, 61
-  Rupert’s drops, 65
+  Rupert's drops, 65
 
 
                                     S
   Sal ammoniac, 99
-  —— prunella, 29
+  ---- prunella, 29
   Salt cake, 84
-  ——, common, 47
-  ——, formation of a, 4
+  ----, common, 47
+  ----, formation of a, 4
   Saltpetre, 29
   Salts, from carbonates, 5
-  ——, from oxides, 5
-  ——, from metals, 4
-  ——, insoluble, 6
+  ----, from oxides, 5
+  ----, from metals, 4
+  ----, insoluble, 6
   Sandstone, artificial, 66
   Saponification, 79
   Schweinfurt green, 27
   Shells, egg, 51
-  ——, oyster, 51
+  ----, oyster, 51
   Silica, 61
-  —— ware, 62
+  ---- ware, 62
   Silicic acid, 62
   Silver bromide, 48
-  —— chloride, 48
-  —— iodide, 48
-  —— nitrate, 28
-  —— sand, 61
+  ---- chloride, 48
+  ---- iodide, 48
+  ---- nitrate, 28
+  ---- sand, 61
   Soap, hard, 79
-  ——, soft, 79
+  ----, soft, 79
   Soda, baking, 88
-  ——, bicarbonate of, 6, 88
-  ——, bread, 88
-  ——, caustic, 96
-  ——, mild, 80
-  ——, natural, 82
-  ——, washing, 3, 5, 81
-  —— water, 49
+  ----, bicarbonate of, 6, 88
+  ----, bread, 88
+  ----, caustic, 96
+  ----, mild, 80
+  ----, natural, 82
+  ----, washing, 3, 5, 81
+  ---- water, 49
   Sodium, 95
-  —— nitrate, 29
-  —— sulphate, 27
+  ---- nitrate, 29
+  ---- sulphate, 27
   Soil bacteria, 38
   Solvay process, 90
   Sorrel, salts of, 77
@@ -3510,14 +3543,14 @@ it can be stripped off, giving a positive replica of the object.
   Stalactite, 53
   Stalagmite, 53
   Stearin, 78
-  —— candles, 79
+  ---- candles, 79
   Stone ammonia, 99
   Suffioni, 60
   Sulphur, 11
-  —— dioxide, 11
-  —— trioxide, prep. of, 19
+  ---- dioxide, 11
+  ---- trioxide, prep. of, 19
   Sulphuric acid, properties, 20, 24
-  —— anhydride, 21
+  ---- anhydride, 21
   Sulphurous acid, 11
   Superphosphate, 57
 
@@ -3533,20 +3566,20 @@ it can be stripped off, giving a positive replica of the object.
   Verdigris, 74
   Vert de Montpellier, 74
   Vinegar, 68
-  ——, malt, 70
-  ——, wine, 70
+  ----, malt, 70
+  ----, wine, 70
   Vitriol, blue, 5
-  ——, nitrated, 16
-  ——, oil of, 12
+  ----, nitrated, 16
+  ----, oil of, 12
 
 
                                     W
   Ward, Dr., 12
   Water, hard, 53
-  ——, soft, 53
-  ——, softening of, 54
+  ----, soft, 53
+  ----, softening of, 54
   Wood ashes, source of potash, 3
-  —— ——, used  as  soap, 2
+  ---- ----, used  as  soap, 2
 
 
                                     Z
@@ -3565,28 +3598,28 @@ it can be stripped off, giving a positive replica of the object.
 
 [2]See Frontispiece.
 
-[3]Now £13 a ton.
+[3]Now �13 a ton.
 
 [4]Basic lead carbonate.
 
-[5]An electron is probably an “atom” of negative electricity detached
+[5]An electron is probably an "atom" of negative electricity detached
     from matter.
 
 
         _Printed by Sir Isaac Pitman & Sons, Ltd. Bath, England_
-                               (v—1468c)
+                               (v--1468c)
 
 
 
 
-                          Transcriber’s Notes
+                          Transcriber's Notes
 
 
-—Silently corrected several palpable typographical errors.
+--Silently corrected several palpable typographical errors.
 
-—Retained publication information from the original source.
+--Retained publication information from the original source.
 
-—In the text versions, included italicized text in _underscores_.
+--In the text versions, included italicized text in _underscores_.
 
 
 
@@ -3597,4 +3630,367 @@ it can be stripped off, giving a positive replica of the object.
 End of the Project Gutenberg EBook of Acids, Alkalis and Salts, by 
 George Henry Joseph Adlam
 
-*** END OF THE PROJECT GUTENBERG EBOOK 50552 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ACIDS, ALKALIS AND SALTS ***
+
+***** This file should be named 50552-8.txt or 50552-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/0/5/5/50552/
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
